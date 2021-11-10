@@ -11,7 +11,7 @@ I leave you below the link of my LinkedIn profile for more information:
 
 #### https://www.linkedin.com/in/paulo-goncalves-ferreira-812260107
 
-<a href="https://app.daily.dev/pdg12"><img src="https://api.daily.dev/devcards/d6ffbd7158614233a0c64b3920d84e8c.png?r=oxc" width="400" alt="Goncalves Ferreira Paulo's Dev Card"/></a>
+<a href="https://app.daily.dev/pdg12"><img src="https://github.com/Paulo-GF/Paulo-GF/blob/main/devcard.svg" width="400" alt="Goncalves Ferreira Paulo's Dev Card"/></a>
 
 
 
