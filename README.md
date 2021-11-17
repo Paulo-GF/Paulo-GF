@@ -2,7 +2,9 @@
 
 ### I'm a <strong>FullStack Junior JavaScript Developer</strong> based in France currently in professional reconversion learning JavaScript at <strong>Ecole O'clock</strong> in API/Data specialization. 
 
-👯 I am looking for a permanent contract that will allow me to develop my skills and apply my knowledge in addition to my final group project that will be presented on November 19th on YouTube which I will post the link as soon as it becomes available in addition to making its repo public. 
+👯 I am looking for a permanent contract that will allow me to develop my skills and apply my knowledge in addition to my final group project named LDO - Transports that will be presented on November 18th on YouTube by following the link below :
+
+https://youtu.be/2S5FSWNPA5g
 
 Furthermore, I plan to take my Web and Mobile Web Developer Professional Title on the January or February session depending on availability.
 
